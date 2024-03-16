@@ -1,3 +1,0 @@
-current directory: /home/cyrus/Fix_My_Code_Challenge/0x01-challenge/blog/vendor/bundle/ruby/2.7.0/gems/bcrypt-3.1.11/ext/mri
-/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20240316-4453-1c08a4p.rb extconf.rb ''
-extconf failedno implicit conversion of nil into String

@@ -1,3 +1,0 @@
-current directory: /home/cyrus/Fix_My_Code_Challenge/0x01-challenge/blog/vendor/bundle/ruby/2.7.0/gems/byebug-9.0.6/ext/byebug
-/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20240316-4453-ygdctm.rb extconf.rb ''
-extconf failedno implicit conversion of nil into String
