@@ -18,11 +18,15 @@ class Square():
         """ Area of the square """
         if self.width == self.height:
             return self.width * self.height
+        else:
+            return 0
 
     def permiter_of_my_square(self):
         """ Calculate the perimeter of the square """
         if self.width == self.height:
             return (self.width * 2) + (self.height * 2)
+        else:
+            return 0
 
     def __str__(self):
         """ String representation of the square """
