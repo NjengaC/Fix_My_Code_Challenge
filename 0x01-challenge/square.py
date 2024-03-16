@@ -24,7 +24,7 @@ class Square():
             return 0
 
     def perimeter_of_my_square(self):
-        """ Calculate the perimeter of the square """
+        """ Calculate the perimeter of square """
         if self.width == self.height:
             return (self.width * 2) + (self.height * 2)
         else:
