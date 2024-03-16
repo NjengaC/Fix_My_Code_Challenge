@@ -5,10 +5,12 @@ Gets defines class square, area and perimeter methods and also modifies __str__
 """
 
 
-class Square:
+class Square():
     """
     Class square defines a square object
     """
+    height = 0
+    width = 0
 
     def __init__(self, *args, **kwargs):
         """ Documentatin """
