@@ -11,6 +11,7 @@ class Square:
     """
 
     def __init__(self, *args, **kwargs):
+        """ Documentatin """
         for key, value in kwargs.items():
             setattr(self, key, value)
 
