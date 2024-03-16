@@ -26,10 +26,7 @@ class Square:
 
     def __str__(self):
         """ String representation of the square """
-        if self.width == self.height:
-            return "{}/{}".format(self.width, self.height)
-        else:
-            return "{}/{}".format(0, 0)
+        return "{}/{}".format(self.width, self.height)
 
 
 if __name__ == "__main__":
