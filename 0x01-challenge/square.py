@@ -19,10 +19,7 @@ class Square:
 
     def area_of_my_square(self):
         """ Calculate the area of the square """
-        if self.width != self.height:
-            return self.width * self.width
-        else:
-            return self.width * self.height
+        return self.width * self.width
 
     def perimeter_of_my_square(self):
         """ Calculate the perimeter of the square """
